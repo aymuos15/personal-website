@@ -66,4 +66,10 @@ footer {
 
 .blog-link {
     font-size: 1.313rem;
+    font-family: sans-serif;
+    color: #345393;
+}
+
+.blog-text {
+    max-width: 60ch;
 }
