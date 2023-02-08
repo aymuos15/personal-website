@@ -1,6 +1,5 @@
 +++
 title = "pursuing independence"
-date = "2023-02-04"
 +++
 
 i think my aim is to pursue independence with technology. but looking at all of the technology,
