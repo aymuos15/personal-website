@@ -1,6 +1,6 @@
 # 💻 Personal Website
 
-<img width="1078" alt="image" src="https://user-images.githubusercontent.com/122728490/218780176-5f02519b-b115-4f02-bad4-0b443d4b5bb3.png">
+<img width="794" alt="image" src="https://user-images.githubusercontent.com/122728490/218783224-37b140de-6a58-4d65-ab60-66ca6c9eb703.png">
 
 This is a simple and minimal website built with Zola and plain CSS.
 
