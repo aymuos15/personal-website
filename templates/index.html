@@ -1,6 +1,9 @@
 {% extends "base.html" %}
 
 {% block content %}
+<head>
+    <link rel="stylesheet" href="/index.css">
+</head>
 <div class="hero-container">
     <img class="hero-image" src="pfp.jpg">
     <div>
@@ -25,15 +28,4 @@
     <h1>contact</h1>
     <p>if you want to work with me or just say hi, feel free to reach out via <a href="mailto:finnaladev@protonmail.com">email.</a></p>
 </div>
-<hr>
-<footer>
-    <p class="footer-text">2023 © finnala.</p>
-    <div class="footer-links">
-        <p><a href="{{ get_url(path='@/blog/_index.md') }}">writing</a></p>
-        <p> / </p>
-        <p><a href="https://www.youtube.com/channel/UC0iUT-aG-VeSHYT43Z2PGkA" target="_blank" rel="noopener noreferrer">videos</a></p>
-        <p> / </p>
-        <p><a href="https://github.com/finnala" target="_blank" rel="noopener noreferrer">code</a></p>
-    </div>
-</footer>
 {% endblock content %}
