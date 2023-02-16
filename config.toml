@@ -1,7 +1,7 @@
 # The URL the site will be built for
-base_url = "https://finnala.dev"
+base_url = "https://Soumya.dev"
 
-title = "finnala"
+title = "Soumya"
 description = "finnala's personal website"
 
 default_language = "en"
