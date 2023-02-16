@@ -10,12 +10,22 @@
 		<link rel="icon" type="image/x-icon" href="favicon.ico">
         <title>finnala.dev</title>
     </head>
-
     <body>
         <section class="section">
             <div class="container">
                 {%block content %} {% endblock %}
             </div>
         </section>
+        <hr>
+        <footer>
+            <p class="footer-text">2023 © finnala.</p>
+            <div class="footer-links">
+                <p><a href="{{ get_url(path='@/blog/_index.md') }}">writing</a></p>
+                <p> / </p>
+                <p><a href="https://www.youtube.com/channel/UC0iUT-aG-VeSHYT43Z2PGkA" target="_blank" rel="noopener noreferrer">videos</a></p>
+                <p> / </p>
+                <p><a href="https://github.com/finnala" target="_blank" rel="noopener noreferrer">code</a></p>
+            </div>
+        </footer>
     </body>
 </html>
