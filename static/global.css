@@ -6,21 +6,20 @@ html {
 body {
     background-color: #FCFCF7;
     padding: 1rem;
+    font-family: sans-serif;
 }
 
 h1 {
     font-size: 2rem;
     font-weight: 500;
-    font-family: sans-serif;
     height: 1.625rem;
 }
 
 p {
     font-size: 1.313rem;
     font-weight: 300;
-    font-family: sans-serif;
-    max-width: 45ch;
 }
+
 
 a {
     text-decoration: none;
@@ -66,7 +65,6 @@ footer {
 
 .blog-link {
     font-size: 1.313rem;
-    font-family: sans-serif;
     color: #345393;
 }
 
